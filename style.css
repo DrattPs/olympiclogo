@@ -1,0 +1,18 @@
+#body {
+    background-image: url("https://t3.ftcdn.net/jpg/04/36/09/36/360_F_436093601_ybaXXXuEheNnuzmLJzy9GP9oQGgabeVP.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+
+  #olympic{
+      color: black; 
+      font-size: 40px;
+  }
+  
+  #Canvas
+  {
+  
+      background-color: white; 
+      border-style:ridge;
+  }
+  
